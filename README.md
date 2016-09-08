@@ -2,7 +2,7 @@
 ### Student:谭善
 ### Student number:2014301020106
 * [x] [exercise_03:All levels]()<br>
-* [x] [exercise_04:Chapter 1 problem1.5]()<br>
+* [x] [exercise_04: Chapter 1 problem]()<br>
 * [x] [exercise_05: Chapter 1 problem]()<br>
 * [x] [exercise_06: Chapter 2 problem]()<br>
 * [x] [exercise_07: Chapter 2 problem]()<br>
