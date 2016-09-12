@@ -14,3 +14,5 @@
 * [ ] [exercise_11:](br)
 * [ ] [exercise_12:](br)
 * [ ] [exercise_13:](br)
+* [ ] [exercise_14:](br)
+* [ ] Final exam
