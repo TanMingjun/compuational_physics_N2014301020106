@@ -2,7 +2,7 @@
 ### Student:谭善
 ### Student number:2014301020106
 * [x] [exercise_01: write down your first README.md with grammers from markdown](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/README.md)
-* [ ] [exercise_02:](br)
+* [ ] [exercise_02:write down myself name](https://www.zybuluo.com/TanMingjun/note/503468)
 * [ ] [exercise_03:](br)
 * [ ] [exercise_04:](br)
 * [ ] [exercise_05:](br)
