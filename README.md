@@ -1,6 +1,7 @@
-#homework list
+#Homework list
 ### Student:谭善
 ### Student number:2014301020106
+### Telephone number:15927629951
 * [x] [exercise_01: write down your first README.md with grammers from markdown](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/README.md)
 * [x] [exercise_02:write down myself name](https://www.zybuluo.com/TanMingjun/note/503468)
 * [ ] [exercise_03:](br)
@@ -15,4 +16,4 @@
 * [ ] [exercise_12:](br)
 * [ ] [exercise_13:](br)
 * [ ] [exercise_14:](br)
-* [ ] Final  exam
+* [ ] [final exam:](br)
