@@ -19,4 +19,7 @@
 * 1.这个题目我没有想到很好的办法，所以我采取了一种很笨的模式，这里就简单地将代码和实现功能列在下面；
 * 2.[点击查看代码](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/Ex-3/%E6%97%8B%E8%BD%AC%E4%BB%A3%E7%A0%81)
 
-![图片丢失]()
+![图片丢失](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/Ex-3/GIF2.gif)
+
+##5.结论
+* 这里基本上实现了字母平移和字符旋转的功能。但编码水平有待改进提高。
