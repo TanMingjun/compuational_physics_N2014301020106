@@ -12,4 +12,9 @@
 * 2.然而，这并没有实现字母的移动，为此，我在这里定义了一个循环语句，每一次循环字母整体向右移动一格；
 * 3.这种方法主要的不足是没有使得字母返回移动。
 * 4.[点击查看代码](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/Ex-3/%E5%B9%B3%E7%A7%BB%E6%BA%90%E4%BB%A3%E7%A0%81)
-![图片丢失]()
+
+![图片丢失](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/Ex-3/GIF.gif)
+
+##4.L2作业情况
+* 1.这个题目我没有想到很好的办法，所以我采取了一种很笨的模式，这里就简单地将代码和实现功能列在下面；
+* 2.[点击查看代码]()
