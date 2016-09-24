@@ -1,0 +1,40 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Sep 24 11:26:46 2016
+
+@author: TanMingjun
+"""
+#引入清屏功能
+import os
+#引入时间间隔
+import time
+#定义元素的拼合方式
+def print5line(para):
+   for line in para:
+      print(line)
+name=['','','','','']
+A=['  #  ',' # # ','#   #','# # #','#   #']
+H=['#   #','#   #','# # #','#   #','#   #']
+N=['#   #','##  #','# # #','#  ##','#   #']
+S=['# # #','#    ','# # #','    #','# # #']
+T=['#####','  #  ','  #  ','  #  ','  #  ']
+#定义元素之间的间隔
+space=[' ',' ',' ',' ',' ']
+#这里5表示我们的字母高度由5个单位字母构成
+for n in range(5):
+    name[n]+=T[n]+space[n]+A[n]+space[n]+N[n]+space[n]+space[n]+space[n]+S[n]+space[n]+H[n]+space[n]+A[n]+space[n]+N[n]+space[n]
+#定义名字的移动方式和距离
+j=int(input('What distance would you like your name move?' ))
+for x in range(j):
+    name[0]=space[0]+name[0]
+    name[1]=space[1]+name[1]
+    name[2]=space[2]+name[2]
+    name[3]=space[3]+name[3]
+    name[4]=space[4]+name[4]
+    #x选择每移动一下的时间间隔
+    time.sleep(0.230)
+    #清空多余的符号
+    i=os.system('cls')
+    #打印结果
+    print5line(name)
+    
