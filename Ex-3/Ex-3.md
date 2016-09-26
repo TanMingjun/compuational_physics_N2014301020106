@@ -21,5 +21,6 @@
 
 ![图片丢失](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/Ex-3/GIF2.gif)
 
-##5.结论
+##5.结论和致谢
 * 这里基本上实现了字母平移和字符旋转的功能。但编码水平有待改进提高。
+* 余康 胡塾绪 
