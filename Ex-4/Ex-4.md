@@ -33,3 +33,8 @@ Similarly, for above question, we can obtain that:
 
 ![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/Ex-4/equation/7D7E0TLG8EUZ2QJY.png)
 
+Now, what we should do is to think of a program to draw a figure to show decay processes of the particle A and the particle B.
+We put each step into two lists, one list for x-label, the other list for y-label. Plot these two lists, we can get the figure. There are lots of programs to conduct this work. Here, I will give two of them.
+
+One of them is similar to program that given by teacher.
+### [Click Here]()
