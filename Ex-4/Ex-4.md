@@ -41,4 +41,4 @@ One of them is similar to program that given by teacher.
 The other one is a little different from the first one.
 ### [Code:Click Here](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/Ex-4/code/%E7%B2%92%E5%AD%90%E8%A1%B0%E5%8F%982.py)
 Operating these two programs, we have the same results as below. Here, we choose NA=100, NB=0, tau=1s, time of step=0.05s.
-![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/Ex-4/code/figure_1.png)
+![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/Ex-4/code/figure_1-1.png)
