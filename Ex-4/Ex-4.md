@@ -31,4 +31,5 @@ where for simplicity we have assumed that the two types of decay are characteriz
 ## 3.Body content
 Similarly, for above question, we can obtain that:
 
+![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/Ex-4/equation/7D7E0TLG8EUZ2QJY.png)
 
