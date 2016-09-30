@@ -27,3 +27,8 @@ Consider again a decay problem with two types of nuclei A and B, but now suppose
 ![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/Ex-4/equation/0A2E00MI5YJP1XUO99YP3.png)
 
 where for simplicity we have assumed that the two types of decay are characterized by the same time constant, tau. Solve this system of equations for the numbers of nuclei, NA and NB, as functions of time. Consider different initial conditions, such as NA=100, NB=0, etc., and take tau=1s. Show that your numerical results are consistent with the idea that system reaches a steady state in which NA and NB are constant. In such a steady state, the time derivatives dNA/dt and dNB/dt should vanish.
+
+## 3.Body content
+Similarly, for above question, we can obtain that:
+
+
