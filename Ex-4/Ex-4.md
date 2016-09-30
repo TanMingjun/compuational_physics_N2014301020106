@@ -14,10 +14,10 @@ Obviously, when the change of time is small, higher powers of the change of time
 
 ![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/Ex-4/equation/81KRZB9Q4RR%5DD4G78E4.png)
 
-Combining with the first equation, we obtain:
+Combining with the first equation, eventually, we can get a very helpful quation:
 
-![图片]()
+![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/Ex-4/equation/F745IUPTXKNE2HJHSX.png)
 
-Eventually, we can get a very helpful quation:
+
 
 It is the key to deal with this problem.
