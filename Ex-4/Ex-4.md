@@ -45,6 +45,6 @@ Operating these two programs, we have the same results as below. Here, we choose
 
 But we can say this picture deplict the excat process of decay, as we all known, the accuracy of results relys on time of step, the smaller the time of step is, the more accurate the result is.
 
-So, I just changed the value of the time of step, assume that time of step=0.01s. At the same picture, we find there are a little differences.
+So, I just changed the value of the time of step, assume that time of step=0.2s. At the same picture, we find there are a little differences.
 
-![图片]()
+![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/Ex-4/code/figure_1_2.png)
