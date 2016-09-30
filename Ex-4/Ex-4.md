@@ -39,5 +39,5 @@ We put each step into two lists, one list for x-label, the other list for y-labe
 One of them is similar to program that given by teacher.
 ### [Code:Click Here](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/Ex-4/code/%E7%B2%92%E5%AD%90%E8%A1%B0%E5%8F%98%E6%A8%A1%E6%8B%9F1.py)
 The other one is a little different from the first one.
-### [Code:Click Here]()
+### [Code:Click Here](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/Ex-4/code/%E7%B2%92%E5%AD%90%E8%A1%B0%E5%8F%982.py)
 
