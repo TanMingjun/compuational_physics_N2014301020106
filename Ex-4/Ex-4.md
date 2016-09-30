@@ -13,6 +13,11 @@ Though we have known this equation, it is not enough to work out the figure. Usi
 Obviously, when the change of time is small, higher powers of the change of time can be ignored. Thus, one can rewrite above equation as below:
 
 ![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/Ex-4/equation/QTJ9C5AMF%5DPT0JMP3180E.png)
+
+Combining with the first equation, we obtain:
+
+![图片]()
+
 Eventually, we can get a very helpful quation:
 
 It is the key to deal with this problem.
