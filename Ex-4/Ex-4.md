@@ -8,6 +8,7 @@ For uranium nuclei decay, it must satisfy the following equation:
 
 Though we have known this equation, it is not enough to work out the figure. Using the Taylor expansion, the question will be simplified easily. One can obtain these formula:
 
+![图片]()
 
 Eventually, we can get a very helpful quation:
 
