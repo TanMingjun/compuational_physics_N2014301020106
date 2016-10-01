@@ -48,3 +48,8 @@ But we can say this picture deplict the excat process of decay, as we all known,
 So, I just changed the value of the time of step, assume that time of step=0.2s. At the same picture, we find there are a little differences.
 
 ![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/Ex-4/code/figure_1_2.png)
+
+Why there are some differences between them? It is not hard for us to find that ,in the process of using the Euler method, we applied a numerical approach. When the time of each step  is smaller, the result is more closer to real situation. In oder to figure out how big the difference between the real value and our results here, I will solve this problem through using mathematical method again. After some simple calculate, I obtain the following solution:
+![图片]()
+Then, plot these formula on the pylab, compare it with our previous results, we find when the time of each step is smaller, the result we get is realer
+###[Code:Click Here]()
