@@ -60,3 +60,17 @@ The comparing picture given by:
 
 Besides, even when N_A and N_B are other values in the begining, eventually, they will be equal. Look like this:
 ![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/Ex-4/code/figure_1_4.png)
+
+Only when tau_A and tau_B are different, eventual results will be not equal. Here I will several situations:
+![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/Ex-4/code/figure_1_5.png)
+![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/Ex-4/code/figure_1_6.png)
+
+## 4.Conclusion
+Above results told us that the system eventually reached a steady state in which NA and NB are constant, and in such a steady state, the time derivatives dNA/dt and dNB/dt vanished. Though our result is a little different from the real result, but it is considerably accurate.
+
+## 5.Reference
+(1) Nicholas J. Giordance, Hisao Nakanishi, 2007, Computational Physics, 2d ed.
+
+(2) [Chapter 1 A First Numerical Problem](https://www.evernote.com/shard/s140/sh/d351f9a3-8076-4274-944b-7043e0ce8cf3/4f89e8630604ea23262f00b3ed11f8ad)
+
+(3) [How to draw planes from a set of linear equations in Python?](https://www.baidu.com/link?url=hsjFGQ4KxCqCTD9pQF-5J7NLrMGslArblR-IUTni4nyYKWGQ0LtLYXBwcFR2tr3fgo2bSrE5bf2raYRG0bFelHzTZLhEyLaoT7faXyH9L1aUwcWld2grK-cSS5tl93HZ7y4DFJrsAs4rn09Y5IZMyZ6ysTFD5dYYx0FKfbErMKi&ie=utf-8&f=8&tn=site888_3_pg&wd=how%20to%20draw%20a%20picture%20in%20python%20when%20equation%20is%20told&oq=how%20to%20draw%20a%20picture%20in%20python%20when%20formula%20is%20told&rqlang=cn&inputT=6463)
