@@ -57,3 +57,6 @@ Then, plot these formula on the pylab, compare it with our previous results, we 
 ###[Code:Click Here](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/Ex-4/code/%E7%9C%9F%E5%AE%9E%E8%A1%B0%E5%8F%98.py)
 The comparing picture given by:
 ![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/Ex-4/code/figure_1_3.png)
+
+Besides, even when N_A and N_B are other values in the begining, eventually, they will be equal. Look like this:
+![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/Ex-4/code/figure_1_4.png)
