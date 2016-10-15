@@ -17,6 +17,12 @@ Under this condition, to use the Euler method, we write each derivative in finit
 
 ![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/Equation/equation3.png)
 
+Now, we can write codes to operate it. [Click the Code]()
+
+The result is below.
+
+![图片]()
+
 Of course, just the gravity was considered, and here the gravity velocity are constant. In real war, the above situation is not work, in the following process, I will solve this problem step by step.
 
 ## 2.Background
