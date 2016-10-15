@@ -56,11 +56,11 @@ Generally, the cannon shell, with initial speed 700m/s, can fly very high about 
 
 First, the most simplest approximation is to treat the atmosphere as an isothermal ideal gas. Through thermal physics, instantly, one have
 
-![图片]()
+![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/Equation/equation8.png)
 
 Then, we write their finite difference form as below
 
-![图片]()
+![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/Equation/equation9.png)
 
 Transform them into python code. [Click the Code](). And the result is given below.
 
@@ -73,11 +73,11 @@ We can compare it with the situation of uniform air drag.
 ### (3)The Adiabatic Air Drag
 Though we have take the air density into consideration, we find our prediction still can't match the measured data very well. In fact there exists a better approximation. That is 
 
-![图片]()
+![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/Equation/equation10.png)
 
 And  their finite difference form is
 
-![图片]()
+![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/Equation/equation11.png)
 
 Now, similarly, the code is [Click the Code](). The result is below.
 
@@ -86,7 +86,13 @@ Besides, the firing angles and the maximum range are also important for sodiers 
 ![图片]()
 
 ### (4)Variational Gravity
-In fact, for a cannon shell, when it fly very high, the gravity also will change. We can explain it through Newton's law ![图片](). 
+In fact, for a cannon shell, when it fly very high, the gravity also will change. We can explain it through Newton's law 
+
+![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/Equation/equation12.png).
+
+Eventually, we can obtain the equation 
+
+![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/Equation/equation13.png)
 
 Thus we put it into code, and I will show its influence of the cannon shell trajectory to you through comparing it with other situations.
 
