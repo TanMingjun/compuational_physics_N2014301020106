@@ -81,6 +81,10 @@ And  their finite difference form is
 
 Now, similarly, the code is [Click the Code](). The result is below.
 
+Besides, the firing angles and the maximum range are also important for sodiers to hit targets, so it is quite necessary to show their relations. The code is [Click the Code](). The result is simple like this:
+
+![图片]()
+
 ### (4)Variational Gravity
 In fact, for a cannon shell, when it fly very high, the gravity also will change. We can explain it through Newton's law ![图片](). 
 
