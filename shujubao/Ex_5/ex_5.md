@@ -11,11 +11,11 @@ In the last homework, we have already used the Euler method to solve questions, 
 
 where x and y are the horizontal and vertical coordinates of the projectile, and g is the acceleration due to gravity. But these equation can't be used to python directly, so one can transform them into four first-order differential equations
 
-![图片]()
+![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/Equation/equation2.png)
 
 Under this condition, to use the Euler method, we write each derivative in finite difference form, which leads to
 
-![图片]()
+![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/Equation/equation3.png)
 
 Of course, just the gravity was considered, and here the gravity velocity are constant. In real war, the above situation is not work, in the following process, I will solve this problem step by step.
 
@@ -29,17 +29,17 @@ Calculate the trajectory og our cannon shell including both air drag and the red
 ### (1)The Uniform Air Drag
 In our treatment of the bicycle problem we found that air resistance was very important, ao we now add that to the model. As the case with a bicycle, we will assume the magnitude of the drag force on our cannon shell is given by
 
-![图片]()
+![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/Equation/equation4.png)
 
 Adding this force to the equations of motion leads to
 
-![图片]()
+![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/Equation/equation5.png)
 
 But this is not enough, we must assure that y>=0, so, we have this procedure
 
-![图片]()
+![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/Equation/equation6.png)
 
-Always, we assume that cannon shells are same with ![图片]()
+Always, we assume that cannon shells are same with ![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/Equation/equation7.png)
 
 With the uniform air drag, we can obtain the code. [Click the Code](). And the result is given below.
 
