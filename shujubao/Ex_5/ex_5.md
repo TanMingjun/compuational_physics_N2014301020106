@@ -47,9 +47,9 @@ But this is not enough, we must assure that y>=0, so, we have this procedure
 
 Always, we assume that cannon shells are same with ![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/Equation/equation7.png)
 
-With the uniform air drag, we can obtain the code. [Click the Code](). And the result is given below.
+With the uniform air drag, we can obtain the code. [Click the Code](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/code/%E5%AF%86%E5%BA%A6%E4%B8%8D%E5%8F%9835%2045%2055.py). And the result is given below.
 
-![图片]()
+![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/figure/figure_2.png)
 
 In order to figure out the difference between the situation of no drag and that of uniform air drag, I chose some initial angles to show.
 
