@@ -107,8 +107,16 @@ Thus we put it into code[Click the Code](https://github.com/TanMingjun/compuatio
 ![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/figure/figure_7.png)
 
 ## 4.Conclusion
+From results that we get, it is easy for us to draw some conclusions.
+##### (1). When we take the air drag into consideration, the shoting distance will be much shorter than before;
+##### (2). After considering the air drag, the maximum of the shoting distance is not corresponding to $45\degree$, instead, it is corresponding to firing angles that are smaller that 45.
+##### (3). Though we think the density of air has already been taken into consideration, but different approxiations will give different results, and reality tell us that the adiabatic approximation is more accurate.
+##### (4). Generally, if the altitude is low, it is unnecessary to evaluate the variation of gravity. But, when the cannon shell is shouted into severl hundreds kilometers's space, we have to consider g.
 
 ## 5.Reference
+[1] Nicholas J. Giordano, Hisao Nakanishi, Computational Physics(Second Edition).
+
+[2] https://www.evernote.com/shard/s140/sh/26f85380-ee6c-4b4b-b33f-6871804d91ff/fb8cc702cb0e8ed7fafb50b2de4596ca
 
 
 
