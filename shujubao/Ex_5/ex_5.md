@@ -93,6 +93,8 @@ Besides, the firing angles and the maximum range are also important for sodiers 
 
 ![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/figure/figure_9.jpg)
 
+I'm so sorry , my source code doesn't work here. So, I just find a picture for results, just for show a similar result.
+
 ### (4)Variational Gravity
 In fact, for a cannon shell, when it fly very high, the gravity also will change. We can explain it through Newton's law 
 
@@ -113,10 +115,10 @@ From results that we get, it is easy for us to draw some conclusions.
 ##### (3). Though we think the density of air has already been taken into consideration, but different approxiations will give different results, and reality tell us that the adiabatic approximation is more accurate.
 ##### (4). Generally, if the altitude is low, it is unnecessary to evaluate the variation of gravity. But, when the cannon shell is shouted into severl hundreds kilometers's space, we have to consider g.
 
-## 5.Reference
+## 5.Reference and acknowledgement
 [1] Nicholas J. Giordano, Hisao Nakanishi, Computational Physics(Second Edition).
 
 [2] https://www.evernote.com/shard/s140/sh/26f85380-ee6c-4b4b-b33f-6871804d91ff/fb8cc702cb0e8ed7fafb50b2de4596ca
 
 
-
+Thanks for Shixing Wang!
