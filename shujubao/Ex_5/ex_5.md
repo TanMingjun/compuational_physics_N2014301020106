@@ -74,7 +74,7 @@ Transform them into python code. [Click the Code](https://github.com/TanMingjun/
 
 We can compare it with the situation of uniform air drag.
 
-![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/figure/figure_5.png)
+![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/figure/figure_8.png)
 
 ### (3)The Adiabatic Air Drag
 Though we have take the air density into consideration, we find our prediction still can't match the measured data very well. In fact there exists a better approximation. That is 
