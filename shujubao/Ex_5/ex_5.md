@@ -53,7 +53,7 @@ With the uniform air drag, we can obtain the code. [Click the Code](https://gith
 
 In order to figure out the difference between the situation of no drag and that of uniform air drag, I chose some initial angles to show.
 
-![图片]()
+![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/figure/figure_3.png)
 
 Obviously, they are almost totally different! With air drag, the maximum range is much small. And the situation of no drag can't be applied to warfare. Maybe our work is perfect now, but it is not true.
 
@@ -70,11 +70,11 @@ Then, we write their finite difference form as below
 
 Transform them into python code. [Click the Code](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/code/%E5%AF%86%E5%BA%A6%E6%94%B9%E5%8F%981.py). And the result is given below.
 
-![图片]()
+![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/figure/figure_4.png)
 
 We can compare it with the situation of uniform air drag.
 
-![图片]()
+![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/figure/figure_5.png)
 
 ### (3)The Adiabatic Air Drag
 Though we have take the air density into consideration, we find our prediction still can't match the measured data very well. In fact there exists a better approximation. That is 
@@ -86,6 +86,8 @@ And  their finite difference form is
 ![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/Equation/equation11.png)
 
 Now, similarly, the code is [Click the Code](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/code/%E5%AF%86%E5%BA%A6%E6%94%B9%E5%8F%982.py). The result is below.
+
+![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/figure/figure_6.png)
 
 Besides, the firing angles and the maximum range are also important for sodiers to hit targets, so it is quite necessary to show their relations. The code is [Click the Code](). The result is simple like this:
 
@@ -100,9 +102,9 @@ Eventually, we can obtain the equation
 
 ![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/Equation/equation13.png)
 
-Thus we put it into code, and I will show its influence of the cannon shell trajectory to you through comparing it with other situations.
+Thus we put it into code[Click the Code](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/code/%E5%AF%86%E5%BA%A6%E5%8A%A0%E9%87%8D%E5%8A%9B.py), and I will show its influence of the cannon shell trajectory to you through comparing it with other situations.
 
-![图片]()
+![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/figure/figure_7.png)
 
 ## 4.Conclusion
 
