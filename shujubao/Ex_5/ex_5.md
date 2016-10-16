@@ -85,7 +85,7 @@ And  their finite difference form is
 
 ![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/Equation/equation11.png)
 
-Now, similarly, the code is [Click the Code](). The result is below.
+Now, similarly, the code is [Click the Code](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/code/%E5%AF%86%E5%BA%A6%E6%94%B9%E5%8F%982.py). The result is below.
 
 Besides, the firing angles and the maximum range are also important for sodiers to hit targets, so it is quite necessary to show their relations. The code is [Click the Code](). The result is simple like this:
 
