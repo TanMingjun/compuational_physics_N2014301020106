@@ -6,7 +6,7 @@
 * [x] [exercise_02:write down myself name](https://www.zybuluo.com/TanMingjun/note/503468)
 * [x] [exercise_03:Move your English name and try to spin some thing like Matchistick Men](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/Ex-3/Ex-3.md)
 * [x] [exercise_04:A decay problem with two types of nuclei A and B](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/Ex-4/Ex-4.md)
-* [ ] [exercise_05:](br)
+* [x] [exercise_05:The Trajectory of A Cannon Shell](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/ex_5.md)
 * [ ] [exercise_06:](br)
 * [ ] [exercise_07:](br)
 * [ ] [exercise_08:](br)
