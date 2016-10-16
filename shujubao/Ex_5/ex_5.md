@@ -68,7 +68,7 @@ Then, we write their finite difference form as below
 
 ![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/Equation/equation9.png)
 
-Transform them into python code. [Click the Code](). And the result is given below.
+Transform them into python code. [Click the Code](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/code/%E5%AF%86%E5%BA%A6%E6%94%B9%E5%8F%981.py). And the result is given below.
 
 ![图片]()
 
