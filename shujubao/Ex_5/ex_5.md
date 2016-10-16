@@ -17,7 +17,7 @@ Under this condition, to use the Euler method, we write each derivative in finit
 
 ![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/Equation/equation3.png)
 
-Now, we can write codes to operate it. [Click the Code]()
+Now, we can write codes to operate it. [Click the Code](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/code/%E5%8A%A0%E5%86%9C%E7%82%AE%E6%97%A0%E9%98%BB.py)
 
 The result is below.
 
