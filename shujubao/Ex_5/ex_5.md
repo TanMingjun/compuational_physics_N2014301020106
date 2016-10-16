@@ -3,7 +3,7 @@
 ## 1.Abstract
 In warfare you generally want to hit a particular target (as opposed to having the cannon shells land indicriminately). Of course, good prediction is quite helpful to realize it. Daily life tell us the trajectory of a cannon shell is related to a lot of factors, including the uniform air drag, the isothermal air drag, the adiabatic air drag and so on. Here, we will take some of them into consideration in the following parts. It will considerably important for us to learn and use the same method to solve similar problem in the furture.
 
-![找一个大炮图片]()
+![找一个大炮图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/figure/figure1.png)
 
 In the last homework, we have already used the Euler method to solve questions, but, last time, we just applied it to differential equation of first order. Now, we will apply it to more complicated situations. To be specific, we consider a projectile such as a shell shot by a cannon. If we air resistance, the equations of motion, which are again obtained from Newton's second law, can be written as
 
@@ -21,7 +21,7 @@ Now, we can write codes to operate it. [Click the Code]()
 
 The result is below.
 
-![图片]()
+![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/figure/figure_1.png)
 
 Of course, just the gravity was considered, and here the gravity velocity are constant. In real war, the above situation is not work, in the following process, I will solve this problem step by step.
 
@@ -29,7 +29,7 @@ Of course, just the gravity was considered, and here the gravity velocity are co
 ### Question 2.9 and 2.8
 Calculate the trajectory og our cannon shell including both air drag and the reduced air density at high altitudes so that you can reproduce the results in Figure 2.5. Preform your calculation for different firing angles and determine the value of the angle that gives the maximum range. In our model of cannon shell trajectory we have assumed that the acceleration due to gravity, g, is a constant. It will, of course, depend on altitude. Add this to the model and calculate how much it affects the range.
 
-![找一个地球卫星模型]()
+![找一个地球卫星模型](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/figure/figure2.png)
 
 ## 3.Body Content
 ### (1)The Uniform Air Drag
