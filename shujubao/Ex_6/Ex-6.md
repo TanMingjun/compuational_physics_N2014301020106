@@ -36,6 +36,8 @@ When it comes to here, it's time for us to write our programs. By the way, don't
 
 ![tupian](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_6/euqation/equation_7.png), ![tupian](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_6/euqation/equation_8.png), ![tupian](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_6/euqation/equation_9.png), ![tupian](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_6/euqation/equation_10.png)
 
+***
+
 ## 3.Body content
 ### Homework L1
 #### Hit the target
@@ -104,13 +106,16 @@ The minimum ia about 672m/s.
 
 So, the minimum firing velocity is about 672m/s
 
-## Conclusion
+***
+
+## 4.Conclusion
 ##### 1.Wherever the target is, can we always hit it exactly through scan angles with a small angle interval, like 0.001 degree even smaller.
 ##### 2.Generally, there are two firing angles that are corrresponding to one target that we want to hit.
 ##### 3.We can use many methods to find the minimum firing velocity, here, I just used two simple and rough ways to realize get it. Hope that I have ability to improve it later.
 ##### 4.These methods are very helpful for wars, but we don't want to see wars.
 
-## Reference
+***
 
+## 5.Reference
 (1) Nicholas J. Giordano Hisao Nakanishi, Computational Physics(Second Edition)
 (2) [The ppt of professor cai](https://www.evernote.com/shard/s140/sh/26f85380-ee6c-4b4b-b33f-6871804d91ff/fb8cc702cb0e8ed7fafb50b2de4596ca)
