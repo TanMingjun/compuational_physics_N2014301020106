@@ -51,6 +51,8 @@ Then in these small scale, we can continue scanning, then the a more accurate fi
 
 Eventually, we can get two more accurate results. And from my notebook(file), these two angles are 41.122 degree and 58.655 degree.
 
+### [Click the code](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_6/code/shiyong.py)
+
 Use these two angles that we get, we can draw trajectory of cannon shell right away:
 
 ![tupian](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_6/figure/figure_3.png)
