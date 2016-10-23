@@ -63,7 +63,45 @@ Ignore errors that come from dt=0.001s, we can calculate deflected distance abou
 直接画图
 
 (2) Height=-2000m and x-distance=25000m
-### [Click the Code]()
+The code is like below, just change Height of target.
+Use the same method as above, we get two figures:
+
+![picture]()
+
+![picture]()
+
+Instantly, we can obtain two firing angle, they are 30.895 degree and 52.592 degree. So, the trajectory of cannon shell is given by:
+
+![picture]()
+
+And the position, which is hited by our cannon shell is given below:
+
+![picture]()
+
+Similarily, we can analy the error:
+直接画图
+
+#### Find the minimum velocity
+There we use two simple methods:
+
+(1) Change firing velocity and scan angles from 0 to 90, assume the target height=5000m, x-distance=20000m
+
+### [Click the code]()
+
+And the result are given by:
+
+![picture]()
+
+The minimum ia about 672m/s.
+
+(2) Similarily, we scan all possible results, and finally, we have:
+
+![picture]()
+
+## Conclusion
+
+## Reference
+
 
 
 
