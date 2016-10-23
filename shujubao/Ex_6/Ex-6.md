@@ -43,40 +43,38 @@ In order to hit target, one sets firing velocity vo=700m/s, now, what we should 
 ### [Click the Code]()
 First, we scan angles by 1 degree, we can get two rough scale about the angle that we really want to get, for example, the scale can be find in [Notebook](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_6/code/angle%20and%20maximum%20distance),and we get the figure:
 
-![tupian]()
+![tupian](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_6/figure/figure_1.png)
 
 Then in these small scale, we can continue scanning, then the a more accurate figure is
 
-![tupian]()
+![tupian](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_6/figure/figure_2.png)
 
 Eventually, we can get two more accurate results. And from my notebook(file), these two angles are 41.122 degree and 58.655 degree.
 
 Use these two angles that we get, we can draw trajectory of cannon shell right away:
 
-![tupian]()
+![tupian](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_6/figure/figure_3.png)
 
 And the position, which cannon shell hit, also can be obtain:
 
-![tupian]()
+![tupian](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_6/figure/figure_4.png)
 
 Ignore errors that come from dt=0.001s, we can calculate deflected distance about our cannon shell.
 直接画图
 
 (2) Height=-2000m and x-distance=25000m
 The code is like below, just change Height of target.
-Use the same method as above, we get two figures:
+Use the same method as above, we get the figure:
 
-![picture]()
-
-![picture]()
+![picture](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_6/figure/figure_5.png)
 
 Instantly, we can obtain two firing angle, they are 30.895 degree and 52.592 degree. So, the trajectory of cannon shell is given by:
 
-![picture]()
+![picture](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_6/figure/figure_6.png)
 
 And the position, which is hited by our cannon shell is given below:
 
-![picture]()
+![picture](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_6/figure/figure_7.png)
 
 Similarily, we can analy the error:
 直接画图
@@ -90,13 +88,17 @@ There we use two simple methods:
 
 And the result are given by:
 
-![picture]()
+![picture](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_6/figure/figure_8.png)
 
 The minimum ia about 672m/s.
 
 (2) Similarily, we scan all possible results, and finally, we have:
 
-![picture]()
+![picture](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_6/figure/figure_10.png)
+
+### [Click the Code]()
+
+So, the minimum firing velocity is about 672m/s
 
 ## Conclusion
 
