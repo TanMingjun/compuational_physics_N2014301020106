@@ -91,9 +91,9 @@ Now, similarly, the code is [Click the Code](https://github.com/TanMingjun/compu
 
 Besides, the firing angles and the maximum range are also important for sodiers to hit targets, so it is quite necessary to show their relations. The code is [Click the Code](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/code/untitled6.py). The result is simple like this:
 
-![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/figure/figure_9.jpg)
+![图片](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/figure/figure_11.png)
 
-I'm so sorry , my source code doesn't work here. So, I just find a picture for results, just for show a similar result.
+
 
 ### (4)Variational Gravity
 In fact, for a cannon shell, when it fly very high, the gravity also will change. We can explain it through Newton's law 
