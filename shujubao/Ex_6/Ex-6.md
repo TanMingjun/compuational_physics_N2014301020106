@@ -86,7 +86,7 @@ There we use two simple methods:
 
 (1) Change firing velocity and scan angles from 0 to 90, assume the target height=5000m, x-distance=20000m
 
-### [Click the code]()
+### [Click the code](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_6/code/%E9%80%BC%E8%BF%91%E6%B3%95.py)
 
 And the result are given by:
 
