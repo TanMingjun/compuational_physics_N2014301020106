@@ -98,7 +98,7 @@ The minimum ia about 672m/s.
 
 ![picture](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_6/figure/figure_10.png)
 
-### [Click the Code]()
+### [Click the Code](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_6/code/bijin2.py)
 
 So, the minimum firing velocity is about 672m/s
 
