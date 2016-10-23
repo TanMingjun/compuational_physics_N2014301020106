@@ -40,7 +40,7 @@ When it comes to here, it's time for us to write our programs. By the way, don't
 In order to hit target, one sets firing velocity vo=700m/s, now, what we should do is to find angles that can make cannon shell hit the target, so we just scan angles one by one. Through operating our program, I found that it will take a long time for my computer to accomplish our scan. How to solve this problem? First, we can chose a large interval of angle, then chose the scale of angles that we need, and repeat above procedure. In this way, we can save a lot of time. Here, I just pick up two heights to discuss our problem.
 
 (1) Height=5000m and x-distance=20000m
-### [Click the Code]()
+### [Click the Code](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_6/code/untitled6.py)
 First, we scan angles by 1 degree, we can get two rough scale about the angle that we really want to get, for example, the scale can be find in [Notebook](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_6/code/angle%20and%20maximum%20distance),and we get the figure:
 
 ![tupian](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_6/figure/figure_1.png)
