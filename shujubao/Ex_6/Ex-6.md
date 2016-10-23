@@ -66,7 +66,10 @@ And the position, which cannon shell hit, also can be obtain:
 ![tupian](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_6/figure/figure_4.png)
 
 Ignore errors that come from dt=0.001s, we can calculate deflected distance about our cannon shell.
-直接画图
+| Angle[degree] | Distance[m] | error |
+|-----|-----|-----|
+| 41.122 | 20000.01491930314 | 0.000075% |
+| 58.655 | 20000.085483244966 | 0.00043% |
 
 (2) Height=-2000m and x-distance=25000m
 The code is like below, just change Height of target.
