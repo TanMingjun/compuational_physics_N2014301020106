@@ -112,4 +112,5 @@ So, the minimum firing velocity is about 672m/s
 
 ## Reference
 
-(1) Nicholas J. Giordan
+(1) Nicholas J. Giordano Hisao Nakanishi, Computational Physics(Second Edition)
+(2) [The ppt of professor cai](https://www.evernote.com/shard/s140/sh/26f85380-ee6c-4b4b-b33f-6871804d91ff/fb8cc702cb0e8ed7fafb50b2de4596ca)
