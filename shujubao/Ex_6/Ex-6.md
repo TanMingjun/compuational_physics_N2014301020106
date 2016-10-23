@@ -5,6 +5,8 @@ In the last homework, we have already drawn some trajectories of cannon shells. 
 ### Question 2.10 
 Generalize the program developed for the previous problem so that it can deal with situations in which the target is at a different altitude than the cannon. Consider cases in which the target is higher and lower than the cannon. Also investigate how the minimum firing velocity requried to hit the target varies as the altitude of the target is varied. Consider the wind drag and use the adiabatic approxiation.
 
+***
+
 ## 2.Background and introduction
 In the last section, we have already gotten the differential equations of motorial cannon shells. It were given below:
 
@@ -110,22 +112,4 @@ So, the minimum firing velocity is about 672m/s
 
 ## Reference
 
-(1) Nicholas J. Giordano, Hisao Nakanishi, Computational Physics(Second Edition)
-
-(2) [PPT of professor cai](https://www.evernote.com/shard/s140/sh/26f85380-ee6c-4b4b-b33f-6871804d91ff/fb8cc702cb0e8ed7fafb50b2de4596ca)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+(1) Nicholas J. Giordan
