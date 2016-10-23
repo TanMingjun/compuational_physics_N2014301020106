@@ -66,6 +66,7 @@ And the position, which cannon shell hit, also can be obtain:
 ![tupian](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_6/figure/figure_4.png)
 
 Ignore errors that come from dt=0.001s, we can calculate deflected distance about our cannon shell.
+
 | Angle[degree] | Distance[m] | error |
 |-----|-----|-----|
 | 41.122 | 20000.01491930314 | 0.000075% |
@@ -86,7 +87,11 @@ And the position, which is hited by our cannon shell is given below:
 ![picture](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_6/figure/figure_7.png)
 
 Similarily, we can analy the error:
-直接画图
+
+| Angle[degree] | Distance[m] | error |
+|-----|-----|-----|
+| 30.895 | 25000.189592005132 | 0.00076% |
+| 52.592 | 24999.911797205175 | 0.00035% |
 
 #### Find the minimum velocity
 There we use two simple methods:
