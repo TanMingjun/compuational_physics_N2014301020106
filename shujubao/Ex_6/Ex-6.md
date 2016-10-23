@@ -36,6 +36,36 @@ When it comes to here, it's time for us to write our programs. By the way, don't
 
 ## 3.Body content
 ### Homework L1
+#### Hit the target
+In order to hit target, one sets firing velocity vo=700m/s, now, what we should do is to find angles that can make cannon shell hit the target, so we just scan angles one by one. Through operating our program, I found that it will take a long time for my computer to accomplish our scan. How to solve this problem? First, we can chose a large interval of angle, then chose the scale of angles that we need, and repeat above procedure. In this way, we can save a lot of time. Here, I just pick up two heights to discuss our problem.
+
+(1) Height=5000m and x-distance=20000m
+### [Click the Code]()
+First, we scan angles by 1 degree, we can get two rough scale about the angle that we really want to get, for example, the scale can be find in [Notebook](),and we get the figure:
+
+![tupian]()
+
+Then in these small scale, we can continue scanning, then the a more accurate figure is
+
+![tupian]()
+
+Eventually, we can get two more accurate results. And from my notebook(file), these two angles are 41.122 degree and 58.655 degree.
+
+Use these two angles that we get, we can draw trajectory of cannon shell right away:
+
+![tupian]()
+
+And the position, which cannon shell hit, also can be obtain:
+
+![tupian]()
+
+Ignore errors that come from dt=0.001s, we can calculate deflected distance about our cannon shell.
+直接画图
+
+(2) Height=-2000m and x-distance=25000m
+### [Click the Code]()
+
+
 
 
 
