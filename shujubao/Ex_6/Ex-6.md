@@ -41,7 +41,7 @@ In order to hit target, one sets firing velocity vo=700m/s, now, what we should 
 
 (1) Height=5000m and x-distance=20000m
 ### [Click the Code]()
-First, we scan angles by 1 degree, we can get two rough scale about the angle that we really want to get, for example, the scale can be find in [Notebook](),and we get the figure:
+First, we scan angles by 1 degree, we can get two rough scale about the angle that we really want to get, for example, the scale can be find in [Notebook](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_6/code/angle%20and%20maximum%20distance),and we get the figure:
 
 ![tupian]()
 
