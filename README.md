@@ -8,7 +8,7 @@
 * [x] [exercise_04:A decay problem with two types of nuclei A and B](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/Ex-4/Ex-4.md)
 * [x] [exercise_05:The Trajectory of a Cannon Shell](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_5/ex_5.md)
 * [x] [exercise_06:Hit the target in different altitude](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_6/Ex-6.md)
-* [ ] [exercise_07:](br)
+* [x] [exercise_07:Oscillatory Motion and Chaos](http://www.jianshu.com/p/e5960d756664)
 * [ ] [exercise_08:](br)
 * [ ] [exercise_09:](br)
 * [ ] [exercise_10:](br)
