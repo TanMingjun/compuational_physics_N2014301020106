@@ -10,7 +10,7 @@
 * [x] [exercise_06:Hit the target in different altitude](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex_6/Ex-6.md)
 * [x] [exercise_07:Oscillatory Motion and Chaos](http://www.jianshu.com/p/e5960d756664)
 * [x] [exercise_08:Routes to Chaos:Period Doubling](http://www.jianshu.com/p/b141af43e303)
-* [x] [exercise_09:](http://www.jianshu.com/p/cdb6d12bc02d)
+* [x] [exercise_09:The Lorenz Model and the Billiard problem](http://www.jianshu.com/p/cdb6d12bc02d)
 * [ ] [exercise_10:](br)
 * [ ] [exercise_11:](br)
 * [ ] [exercise_12:](br)
