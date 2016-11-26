@@ -11,7 +11,7 @@
 * [x] [exercise_07:Oscillatory Motion and Chaos](http://www.jianshu.com/p/e5960d756664)
 * [x] [exercise_08:Routes to Chaos:Period Doubling](http://www.jianshu.com/p/b141af43e303)
 * [x] [exercise_09:The Lorenz Model and the Billiard problem](http://www.jianshu.com/p/cdb6d12bc02d)
-* [ ] [exercise_10:Kepler's Laws and Precession of the Perihelion of Mercury](http://www.jianshu.com/p/6bc499885f77)
+* [x] [exercise_10:Kepler's Laws and Precession of the Perihelion of Mercury](http://www.jianshu.com/p/6bc499885f77)
 * [ ] [exercise_11:](br)
 * [ ] [exercise_12:](br)
 * [ ] [exercise_13:](br)
