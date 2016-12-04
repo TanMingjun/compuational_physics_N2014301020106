@@ -15,7 +15,7 @@
 
 ### 第十一次作业-木星对地球运动的影响以及土卫七的混沌运动
 * 作业在[简书](http://www.jianshu.com/p/df50d3dd4523)
-* 作业在[Github]()
+* 作业在[Github](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex-11/Ex-11.md)
 
 * [ ] [exercise_12:](br)
 * [ ] [exercise_13:](br)
