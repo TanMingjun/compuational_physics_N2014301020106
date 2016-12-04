@@ -14,7 +14,7 @@
 * [x] [exercise_10:Kepler's Laws and Precession of the Perihelion of Mercury](http://www.jianshu.com/p/6bc499885f77)
 
 ### 第十一次作业-木星对地球运动的影响以及土卫七的混沌运动
-* 作业在[简书]()
+* 作业在[简书](http://www.jianshu.com/p/df50d3dd4523)
 * 作业在[Github]()
 
 * [ ] [exercise_12:](br)
