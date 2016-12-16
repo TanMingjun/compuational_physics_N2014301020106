@@ -19,4 +19,4 @@
 
 * [x] [exercise_12:Potentials and Fields](http://www.jianshu.com/p/30ea55f926e0)
 * [ ] [exercise_13:](br)
-* ### [ ] [final exam:](br)
+* [ ] [final exam:](br)
