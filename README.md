@@ -18,5 +18,5 @@
 * 作业在[Github](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Ex-11/Ex-11.md)
 
 * [x] [exercise_12:Potentials and Fields](http://www.jianshu.com/p/30ea55f926e0)
-* [ ] [exercise_13:](br)
+* [x] [exercise_13:Waves](http://www.jianshu.com/p/110d132cffb1)
 * [ ] [final exam:](br)
