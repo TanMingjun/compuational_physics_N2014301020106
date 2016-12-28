@@ -103,27 +103,45 @@ This situation is the most universal situation in our daily life, especially for
 
 ***
 ## 6. Random walks and diffusion
-consider there is a cup of water, then, we put into a pack of coffee in the center of the water from statistic, we know the density of coffee is then proportional to the probability per unit volume per unit time. 
+consider there is a cup of water, then, we put into a pack of coffee in the center of the water from statistic, we know the density of coffee is then proportional to the probability per unit volume per unit time. From the probability P, we can derive diffusion fuction from random walk.
+
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Equation/equation_6.png)
 
+which leads to
+
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Equation/equation_7.png)
-
+Then,
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Equation/equation_8.png)
-
+, where
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Equation/equation_9.png)
+
+If we consider one dimension, we have
 
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Equation/equation_10.png)
 
-![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Equation/equation_11.png
-)
+* Consider a particle is at the origin when t=0, then, we study its distribution with time. The following reflected time evolution calculated from the diffusion equation in one dimension.
+
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/GIF/GIF4.gif)
+
+##### A curious feature of the results for t>0 is that the density alternates between zero and nonzero values. This behavior is due to the initial density profile which we assumed. 
+
+* We can average the results for adjacent spatial sites so as to "smooth over" the points where the density was zero. Doing this yields the results in the following.
 
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/GIF/GIF5.gif)
 
+* I choosed some certain time to plot figures.
+
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_7.png)
+
+* Consider two dimension case, yielding figures below.
 
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_9.png)
 
+##### In any case, the random-walk results exihibit the Gaussian spreading of the particle distribution.
 
-
+***
+## 7. Conclusion
+##### 1.
+#####
+#####
 
