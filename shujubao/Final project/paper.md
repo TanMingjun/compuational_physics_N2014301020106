@@ -46,19 +46,17 @@ Now, one can assume that the walker move one step during \Delta t=1, and the wal
 
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_4.png)
 
-##### From the figure, we know the mean value of the square of the displacement is in direct proportion to the time t. In theory, we have
-![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Equation/equation_1.png)
-So, here, D=1/2
-
-![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_12.png)
+##### From the figure, we know the mean value of the square of the displacement is in direct proportion to the time t. In theory, we have![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Equation/equation_1.png)So, here, D=1/2
+* Now, we change the probability about going to left and going to right. Going to right with the probability 1/3 and goint to left with the probability 2/3. We can study some values of this random process. Following two figures represent its track and mean displacement versus time.
 
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_13.png)
 
+![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_12.png)
+
+* We can change the probability again, and we study the average of the x squared. One situation is that going to right with the probability 1/3 and going to left with the probability 2/3, the other is that going to right with the probability 1/4 and going to left with the probability 3/4.
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_16.png)
 
-
-
-![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Equation/equation_2.png)
+##### Although the probability changed, the average of the x squared and time t into a quadratic relationship still. The fits the theory very well.
 
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Equation/equation_6.png)
 
