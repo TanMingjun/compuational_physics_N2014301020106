@@ -65,12 +65,9 @@ Now, one can assume that the walker move one step during \Delta t=1, and the wal
 ## 4. Random walk in two dimension
 Python has provided us all kinds of functions, so we can take advantage of them sufficiently. The turtle can help us simulate random walks of two dimension. Assuming that there is a particle in the orign, in the next time-\Delta t, it can go up and down, go left and right with the same probability, then, we can plot its track using random process theory.
 
-* When the length of each step is constant, we have the below picture:
+* When the length of each step is constant, we have the below picture(left). When the length of each step can be arbitrary range from 0 to 1, we can obtain the following figure(right).
 
-![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/GIF/GIF.gif)
-
-* When the length of each step can be arbitrary range from 0 to 1, we can obtain the following figure:
-
+![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/GIF/GIF3.gif)
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/GIF/GIF2.gif)
 
 ##### Just like the situation of one dimension, its track is unpredicted. These two figures embodied randomness, it is helpful for us to understand the motion of particles that on the surface.
