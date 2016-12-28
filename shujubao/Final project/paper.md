@@ -37,16 +37,19 @@ Now, one can assume that the walker move one step during \Delta t=1, and the wal
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_2.png)
 
 ##### From here, we just know that we can predict the walker's track.
+
 * The following is the figure about the walker's mean displacement.
 
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_3.png)
 
 ##### Obviously, the mean displacement of the walker will fluctuate near 0. In theory, the walker have same probability to go to right and left, so it is not surprising to get this result.
+
 * Instantly, we can plot the mean value of the square of the displacement.
 
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_4.png)
 
 ##### From the figure, we know the mean value of the square of the displacement is in direct proportion to the time t. In theory, we have![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Equation/equation_1.png)So, here, D=1/2
+
 * Now, we change the probability about going to left and going to right. Going to right with the probability 1/3 and goint to left with the probability 2/3. We can study some values of this random process. Following two figures represent its track and mean displacement versus time.
 
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_13.png)
@@ -76,7 +79,7 @@ Python has provided us all kinds of functions, so we can take advantage of them 
 ## 5. Random walk in three dimension
 This situation is the most universal situation in our daily life, especially for us who are major in physics. That is because we live in 3-D world. Particles always move in this way. Using python to produce random number, we can simulation particles' motion.
 
-* First, we assume the particle can move in six direction, that is the particle can move along x-axis, y-axis and z-axis. And the particle move one step per time. The length of step is constant. Then, we can obtain these pictures.
+* First, we assume the particle can move in six directions, that is the particle can move along x-axis, y-axis and z-axis. And the particle move one step per time. The length of step is constant. Then, we can obtain these pictures.
 
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_11.png)
 
@@ -90,10 +93,17 @@ This situation is the most universal situation in our daily life, especially for
 
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_8.png)
 
+* In fact we can find a realer case, that is, the particle can move in all directions, and the length of one step has a range from 0 to 1. 
+
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_19.png)
 
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_20.png)
 
+##### In this case, the motion of particle is more ruleless and random. But in real environment, it is more accuracy. Besides, if we want to use python to get more exact result, we should consider the distribution of mean free path.
+
+***
+## 6. Random walks and diffusion
+consider there is a cup of water, then, we put into a pack of coffee in the center of the water from statistic, we know the density of coffee is then proportional to the probability per unit volume per unit time. 
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Equation/equation_6.png)
 
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Equation/equation_7.png)
