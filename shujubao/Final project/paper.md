@@ -1,4 +1,4 @@
-# A Brief Introduction to Random and Its Applications In Some physical models 
+# A Brief Introduction to Random and Its Applications In Some Physical Models 
 #####姓名：谭善
 #####学号：2014301020106
 #####班级：14级弘毅班
@@ -59,7 +59,7 @@ Now, one can assume that the walker move one step during \Delta t=1, and the wal
 ##### Although the probability changed, the average of the x squared and time t into a quadratic relationship still. The fits the theory very well.
 
 ***
-## 4. Random work in two dimension
+## 4. Random walk in two dimension
 Python has provided us all kinds of functions, so we can take advantage of them sufficiently. The turtle can help us simulate random walks of two dimension. Assuming that there is a particle in the orign, in the next time-\Delta t, it can go up and down, go left and right with the same probability, then, we can plot its track using random process theory.
 
 * When the length of each step is constant, we have the below picture:
@@ -70,7 +70,29 @@ Python has provided us all kinds of functions, so we can take advantage of them 
 
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/GIF/GIF2.gif)
 
-##### Like the situation of one dimension, 
+##### Just like the situation of one dimension, its track is unpredicted. These two figures embodied randomness, it is helpful for us to understand the motion of particles that on the surface.
+
+***
+## 5. Random walk in three dimension
+This situation is the most universal situation in our daily life, especially for us who are major in physics. That is because we live in 3-D world. Particles always move in this way. Using python to produce random number, we can simulation particles' motion.
+
+* First, we assume the particle can move in six direction, that is the particle can move along x-axis, y-axis and z-axis. And the particle move one step per time. The length of step is constant. Then, we can obtain these pictures.
+
+![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_11.png)
+
+![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_5.png)
+
+##### Similarily, it given the same results as the situation in one dimension.
+
+* Now, if we consider that each step has different length, the result are given below, the difference is that the relation between the average of the x squared and time t. 
+
+![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_10.png)
+
+![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_8.png)
+
+![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_19.png)
+
+![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_20.png)
 
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Equation/equation_6.png)
 
@@ -82,24 +104,8 @@ Python has provided us all kinds of functions, so we can take advantage of them 
 
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Equation/equation_10.png)
 
-![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Equation/equation_11.png)
-
-
-
-![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_11.png)
-
-![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_6.png)
-
-![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_5.png)
-
-![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_10.png)
-
-![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_8.png)
-
-![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_19.png)
-
-![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_20.png)
-
+![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Equation/equation_11.png
+)
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/GIF/GIF4.gif)
 
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/GIF/GIF5.gif)
