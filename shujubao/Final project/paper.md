@@ -141,7 +141,11 @@ If we consider one dimension, we have
 
 ***
 ## 7. Conclusion
-##### 1.
-#####
-#####
+##### 1.For one, two or three dimension, if the particle has same probability move forward to all possible direction, the mean value of the square of the displacement is in direct proportion to the time t.
+##### 2. If there are different chances moving to different direction, the average of the x squared and time t into a quadratic relationship.
+##### 3. Python provides us all kinds of tools to accomplish our results, we should learn how to apply random number to them.
+##### 4. In any case, the random-walk results exihibit the Gaussian spreading of the particle distribution.
 
+***
+## 8. References
+[1] Computational Physics(Second Edition), Nicholas J.Giordano, Hisao Nakanishi.
