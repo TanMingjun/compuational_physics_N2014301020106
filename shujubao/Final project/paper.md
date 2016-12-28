@@ -19,7 +19,7 @@ Random numbers are required in different techniques of statistics, such as when 
 ##### This is what we obtained, if you run the program again and again, you will find that there is no regularity about the number we get. 
 
 ***
-## 3. Random walk in one dimension
+## 3. Random walks in one dimension
 Assuming that a walker that is able to take steps of length unity along a line. And the walker can go left and right, we just want to study its position(or deviation from the origin). 
 In theory, setting each step as s_i, then, we have 
 
@@ -58,6 +58,20 @@ Now, one can assume that the walker move one step during \Delta t=1, and the wal
 
 ##### Although the probability changed, the average of the x squared and time t into a quadratic relationship still. The fits the theory very well.
 
+***
+## 4. Random work in two dimension
+Python has provided us all kinds of functions, so we can take advantage of them sufficiently. The turtle can help us simulate random walks of two dimension. Assuming that there is a particle in the orign, in the next time-\Delta t, it can go up and down, go left and right with the same probability, then, we can plot its track using random process theory.
+
+* When the length of each step is constant, we have the below picture:
+
+![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/GIF/GIF.gif)
+
+* When the length of each step can be arbitrary range from 0 to 1, we can obtain the following figure:
+
+![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/GIF/GIF2.gif)
+
+##### Like the situation of one dimension, 
+
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Equation/equation_6.png)
 
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Equation/equation_7.png)
@@ -71,11 +85,6 @@ Now, one can assume that the walker move one step during \Delta t=1, and the wal
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Equation/equation_11.png)
 
 
-
-
-![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/GIF/GIF.gif)
-
-![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/GIF/GIF2.gif)
 
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_11.png)
 
