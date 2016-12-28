@@ -32,6 +32,8 @@ Now, one can assume that the walker move one step during \Delta t=1, and the wal
 
 * Following pictures can represent two walkers and three walkers in one dimension, their tracks are random.
 
+### [Click the Code](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Code/%E9%9A%8F%E6%9C%BA%E8%A1%8C%E8%B5%B0.py)
+
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_1.png)
 
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_2.png)
@@ -40,11 +42,15 @@ Now, one can assume that the walker move one step during \Delta t=1, and the wal
 
 * The following is the figure about the walker's mean displacement.
 
+### [Click the Code](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Code/x%E7%9A%84%E5%B9%B3%E5%9D%87.py)
+
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_3.png)
 
 ##### Obviously, the mean displacement of the walker will fluctuate near 0. In theory, the walker have same probability to go to right and left, so it is not surprising to get this result.
 
 * Instantly, we can plot the mean value of the square of the displacement.
+
+### [Click the Code](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Code/x%E5%B9%B3%E6%96%B9%E7%9A%84%E5%B9%B3%E5%9D%87.py)
 
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_4.png)
 
@@ -67,6 +73,8 @@ Python has provided us all kinds of functions, so we can take advantage of them 
 
 * When the length of each step is constant, we have the below picture(left). When the length of each step can be arbitrary range from 0 to 1, we can obtain the following figure(right).
 
+### [Click the Code](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Code/%E9%9A%8F%E6%9C%BA%E8%A1%8C%E8%B5%B0%E4%BA%8C%E7%BB%B4turtle%E6%A8%A1%E6%8B%9F.py)
+
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/GIF/GIF3.gif)
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/GIF/GIF2.gif)
 
@@ -78,7 +86,11 @@ This situation is the most universal situation in our daily life, especially for
 
 * First, we assume the particle can move in six directions, that is the particle can move along x-axis, y-axis and z-axis. And the particle move one step per time. The length of step is constant. Then, we can obtain these pictures.
 
+### [Click the Code](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Code/%E4%B8%89%E7%BB%B4%E9%9A%8F%E6%9C%BA%E8%A1%8C%E8%B5%B0.py)
+
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_11.png)
+
+### [Click the Code](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Code/%E4%B8%89%E7%BB%B4r2%E5%B9%B3%E5%9D%87.py)
 
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_5.png)
 
@@ -118,6 +130,8 @@ If we consider one dimension, we have
 
 * Consider a particle is at the origin when t=0, then, we study its distribution with time. The following reflected time evolution calculated from the diffusion equation in one dimension.
 
+### [Click the Code](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Code/%E4%B8%80%E7%BB%B4%E6%89%A9%E6%95%A3%E9%9A%8F%E6%97%B6%E9%97%B4%E5%8F%98%E5%8C%96.py)
+
 *****************![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/GIF/GIF4.gif)
 
 ##### A curious feature of the results for t>0 is that the density alternates between zero and nonzero values. This behavior is due to the initial density profile which we assumed. 
@@ -131,6 +145,8 @@ If we consider one dimension, we have
 ![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_7.png)
 
 * Consider two dimension case, yielding figures below.
+
+### [Click the Code](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Code/%E4%BA%8C%E7%BB%B4%E6%89%A9%E6%95%A3%E5%9B%BE.py)
 
 *****************![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_9.png)
 
