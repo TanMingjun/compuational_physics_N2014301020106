@@ -121,13 +121,13 @@ If we consider one dimension, we have
 
 * Consider a particle is at the origin when t=0, then, we study its distribution with time. The following reflected time evolution calculated from the diffusion equation in one dimension.
 
-![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/GIF/GIF4.gif)
+*****************![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/GIF/GIF4.gif)
 
 ##### A curious feature of the results for t>0 is that the density alternates between zero and nonzero values. This behavior is due to the initial density profile which we assumed. 
 
 * We can average the results for adjacent spatial sites so as to "smooth over" the points where the density was zero. Doing this yields the results in the following.
 
-![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/GIF/GIF5.gif)
+*****************![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/GIF/GIF5.gif)
 
 * I choosed some certain time to plot figures.
 
@@ -135,7 +135,7 @@ If we consider one dimension, we have
 
 * Consider two dimension case, yielding figures below.
 
-![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_9.png)
+*****************![](https://github.com/TanMingjun/compuational_physics_N2014301020106/blob/master/shujubao/Final%20project/Figure/figure_9.png)
 
 ##### In any case, the random-walk results exihibit the Gaussian spreading of the particle distribution.
 
